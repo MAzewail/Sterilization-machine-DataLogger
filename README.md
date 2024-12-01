@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [Your Email]
 
-Project Link: [https://github.com/[YourUsername]/esp32-limit-switch-logger](https://github.com/[YourUsername]/esp32-limit-switch-logger)
+Project Link: [https://github.com/MAzewail/esp32-limit-switch-logger](https://github.com/[YourUsername]/esp32-limit-switch-logger)
 
 ## Acknowledgments
 
