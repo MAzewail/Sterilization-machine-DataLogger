@@ -99,9 +99,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email]
+Your Name - Mohamed Salem
 
-Project Link: [https://github.com/MAzewail/esp32-limit-switch-logger](https://github.com/[YourUsername]/esp32-limit-switch-logger)
+Project Link: [https://github.com/MAzewail/esp32-limit-switch-logger](https://github.com/MAzewail/Sterilization-machine-DataLogger)
 
 ## Acknowledgments
 
