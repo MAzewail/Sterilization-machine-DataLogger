@@ -3,7 +3,7 @@
 ## Overview
 
 This project is an ESP32-based time logging system that records the start and end times of a limit switch's activation using an RTC (Real-Time Clock) module and logs the data to an SD card. It's designed to track the duration and precise timing of switch events.
-
+![Diagram](https://github.com/MAzewail/Sterilization-machine-DataLogger/blob/main/Diagram.PNG)
 ## Features
 
 - Real-time logging of limit switch activation and deactivation
