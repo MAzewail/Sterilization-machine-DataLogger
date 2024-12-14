@@ -43,7 +43,7 @@ This project is an ESP32-based time logging system that records the start and en
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/esp32-limit-switch-logger.git
+   git clone https://github.com/MAzewail/Sterilization-machine-DataLogger.git
    ```
 
 2. Open the Arduino IDE
